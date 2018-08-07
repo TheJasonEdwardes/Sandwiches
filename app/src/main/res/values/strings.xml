@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Sandwiches</string>
+    <string name="department">com.example.jason.department</string>
+    <string name="checkbox">com.example.jason.password.checkbox</string>
+    <string name="name">com.example.jason.password.name</string>
+    <string name="email">com.example.jason.password.email</string>
+
+
+    <string name="tuna_mayo">tuna mayo</string>
+    <string name="tuna_mayo_and_cucumber">tuna mayo &amp; cucumber</string>
+    <string name="prawn_in_seafood_sauce">prawn in seafood sauce</string>
+    <string name="special">special</string>
+    <string name="salad">salad</string>
+    <string name="egg_mayo">egg mayo &amp; cress</string>
+    <string name="sliced_egg">sliced egg &amp; tomato</string>
+    <string name="cheese">cheese</string>
+    <string name="cheese_and_pickel">cheese &amp; pickel</string>
+    <string name="brie_and_cranberry">brie &amp; cranberry</string>
+
+
+    <string name="chicken_and_bacon">chicken &amp; bacon</string>
+    <string name="chicken_bacon_and_sweetcorn">chicken,bacon &amp; sweetcorn</string>
+    <string name="coronation_chicken">coronation_chicken</string>
+    <string name="chicken_tikka">chicken tikka</string>
+    <string name="chicken">chicken</string>
+    <string name="chicken_and_pickel">chicken &amp; pickel</string>
+
+    <string name="ham">ham</string>
+    <string name="ham_and_pickel">ham &amp; pickel</string>
+    <string name="ham_and_egg">ham &amp; egg</string>
+    <string name="ham_and_cheese">ham &amp; cheese</string>
+
+
+    <string name="BLT">BLT</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="email_end">\@gmail.com</string>
+
+
+
+
+</resources>

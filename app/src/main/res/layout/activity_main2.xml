@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLightBlue"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/tuna_mayo"
+            style="@style/SandwichBlue"
+            android:text="@string/tuna_mayo" />
+
+        <Button
+            android:id="@+id/Chicken_and_bacon"
+            style="@style/SandwichBrown"
+            android:text="@string/chicken_and_bacon" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/tuna_mayo_cucumber"
+            style="@style/SandwichBlue"
+            android:text="@string/tuna_mayo_and_cucumber" />
+
+        <Button
+            android:id="@+id/chicken_and_bacon_sweetcorn"
+            style="@style/SandwichBrown"
+            android:text="@string/chicken_bacon_and_sweetcorn" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/prawn"
+            style="@style/SandwichBlue"
+            android:text="@string/prawn_in_seafood_sauce" />
+
+        <Button
+            android:id="@+id/coronation_chicken"
+            style="@style/SandwichBrown"
+            android:text="@string/coronation_chicken" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/salad"
+            style="@style/SandwichGreen"
+            android:text="@string/salad" />
+
+        <Button
+            android:id="@+id/chicken_tikka"
+            style="@style/SandwichBrown"
+            android:text="@string/chicken_tikka" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/egg_mayo"
+            style="@style/SandwichGreen"
+            android:text="@string/egg_mayo" />
+
+        <Button
+            android:id="@+id/chicken"
+            style="@style/SandwichBrown"
+            android:text="@string/chicken" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/sliced_egg"
+            style="@style/SandwichGreen"
+            android:text="@string/sliced_egg" />
+
+        <Button
+            android:id="@+id/blt"
+            style="@style/SandwichBrown"
+            android:text="@string/BLT" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/cheese"
+            style="@style/SandwichGreen"
+            android:text="@string/cheese" />
+
+        <Button
+            android:id="@+id/ham"
+            style="@style/SandwichBrown"
+            android:text="@string/ham" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/cheese_and_pickel"
+            style="@style/SandwichGreen"
+            android:text="@string/cheese_and_pickel" />
+
+        <Button
+            android:id="@+id/ham_and_pickel"
+            style="@style/SandwichBrown"
+            android:text="@string/ham_and_pickel" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/brie_and_cranberry"
+            style="@style/SandwichGreen"
+            android:text="@string/brie_and_cranberry" />
+
+        <Button
+            android:id="@+id/ham_and_egg"
+            style="@style/SandwichBrown"
+            android:text="@string/ham_and_egg" />
+
+    </LinearLayout>
+
+    <LinearLayout style="@style/activity2Layout">
+
+        <Button
+            android:id="@+id/ham_and_cheese"
+            style="@style/SandwichBrown"
+            android:text="@string/ham_and_cheese" />
+
+        <Button
+            style="@style/SandwichBrown"
+            android:text="" />
+
+    </LinearLayout>
+</LinearLayout>

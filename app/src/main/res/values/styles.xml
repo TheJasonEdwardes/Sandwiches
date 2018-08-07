@@ -1,0 +1,97 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="activity2Layout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">1dp</item>
+        <item name="android:layout_marginRight">1dp</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">0dp</item>
+
+    </style>
+    <style name="Sandwich">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textColor">@color/colorwhite</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:background">@drawable/round_coners</item>>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="EditBox">
+        <item name= "android:layout_marginLeft">40dp</item>
+        <item name= "android:layout_width">match_parent</item>
+        <item name= "android:textSize">20sp</item>
+        <item name= "android:textColor">@color/colorBlack</item>
+        <item name= "android:background">@color/colorLightBlue</item>
+        <item name= "android:layout_height">wrap_content</item>
+        <item name= "android:digits">/ /@abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</item>
+        <item name= "android:inputType">textPersonName</item>
+        <item name= "android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="SandwichGreen">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textColor">@color/colorwhite</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:background">@drawable/green_round_coners</item>>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="SandwichBrown">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textColor">@color/colorwhite</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:background">@drawable/red_round_coners</item>>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="SandwichBlue">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textColor">@color/colorwhite</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:background">@drawable/blue_round_coners</item>>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="SandwichYellow">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_margin">2dp</item>
+        <item name="android:textColor">@color/colorwhite</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:background">@drawable/yellow_round_coners</item>>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+
+
+</resources>
+
+
